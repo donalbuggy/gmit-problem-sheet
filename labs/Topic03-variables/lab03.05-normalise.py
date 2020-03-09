@@ -1,0 +1,5 @@
+print("Please enter a string:")
+thestring = input()
+newstring = thestring.strip().lower()
+print("That string normalised is: {}".format(newstring))
+print("We reduced the input string from {} to {} characters".format(len(thestring), len(newstring)))

@@ -1,3 +1,5 @@
+# A program to generate a list of 10 random numbers, return them in a string to the user, then take the 3 highest numbers and return them in another string
+
 import random
 
 # create the empty list to hold the generated random numbers, then generate the list and print it as a string
